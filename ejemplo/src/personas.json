@@ -1,0 +1,25 @@
+[
+    {
+        "nombre" : "Emanuel",
+        "apellido" : "Martinez",
+        "edad" : 27,
+        "estudiante" : true,
+        "asignaturas" : [
+            "Programacion",
+            "Estructura de datos"
+        ],
+        "mug" : {
+            "marca" : "N/A",
+            "color" : "Azul"
+        }
+    },
+    {
+        "nombre" : "Tomas",
+        "apellido" : "Deluca",
+        "edad" : 25,
+        "estudiante" : true,
+        "asignaturas" : [
+            "Programacion"
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "titulo": "tarea 1",
+        "estado": "activa"
+    },
+    {
+        "titulo": "tarea 2",
+        "estado": "inactiva"
+    }
+]
